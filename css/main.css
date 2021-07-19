@@ -101,10 +101,11 @@ header {
 
 header .logo {
     width : 40px;
+    height : 40px;
     background-color: #fff;
 }
 header .logo::selection {
-    background-color: #fff;
+    background-color: #000;
 } 
 header .container {
     display : flex;
